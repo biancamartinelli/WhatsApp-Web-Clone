@@ -11,3 +11,5 @@ Projeto WhatsApp Web Clone Utilizando Flex Box e Responsividade do curso: HTML e
 ##
 
 ## 💻Demonstração do Projeto:
+
+![Screenshot_1](https://github.com/biancamartinelli/WhatsApp-Web-Clone/assets/107266212/585c673e-79ae-46a0-a648-2c317448f6df)
