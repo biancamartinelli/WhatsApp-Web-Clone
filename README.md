@@ -1,5 +1,6 @@
 # WhatsApp Web Clone
-Projeto WhatsApp Web Clone Utilizando Flex Box e Responsividade do curso: HTML e CSS: Técnicas Avançadas - Prof. Matheus Battisti
+
+Projeto WhatsApp Web Clone do curso: HTML e CSS: Técnicas Avançadas - Prof. Matheus Battisti
 
 💡 Acesso ao curso:
 
